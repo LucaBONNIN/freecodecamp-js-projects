@@ -24,7 +24,7 @@ Les 5 projets validés dans le cadre de la certification **JavaScript Algorithms
 
 ## Certification
 
-[Voir le certificat freeCodeCamp](https://www.freecodecamp.org/certification/ton-pseudo-fcc/javascript-algorithms-and-data-structures-v8)
+[Voir le certificat freeCodeCamp](https://www.freecodecamp.org/certification/lucabonnin/javascript-algorithms-and-data-structures-v8)
 
 ---
 
